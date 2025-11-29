@@ -2,7 +2,8 @@
 <h3 align="center">Cybersecurity Analyst | Malware Researcher | VAPT Enthusiast</h3>
 
 <!-- WORKING GIF -->
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/DR-raze-20/DR-raze-20/main/giphy.gif">
+
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Malware Analysis**
