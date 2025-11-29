@@ -46,13 +46,13 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p>
+<!-- <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-raze-20&layout=compact&theme=tokyonight" />
 </p>
 
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-raze-20&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-raze-20&theme=tokyonight" />
